@@ -1,0 +1,34 @@
+{
+  "random_forest": {
+    "loc": 0.1018,
+    "complexity": 0.0236,
+    "function_count": 0.0156,
+    "avg_function_size": 0.0118,
+    "max_function_size": 0.0136,
+    "dependency_count": 0.0154,
+    "commit_count": 0.1134,
+    "developer_count": 0.1151,
+    "lines_added": 0.0409,
+    "lines_deleted": 0.0309,
+    "code_churn": 0.0394,
+    "recent_commit_count": 0.0311,
+    "days_since_last_change": 0.379,
+    "previous_bug_count": 0.0683
+  },
+  "xgboost": {
+    "loc": 0.07190000265836716,
+    "complexity": 0.08959999680519104,
+    "function_count": 0.025100000202655792,
+    "avg_function_size": 0.021199999377131462,
+    "max_function_size": 0.024700000882148743,
+    "dependency_count": 0.034699998795986176,
+    "commit_count": 0.06830000132322311,
+    "developer_count": 0.1363999992609024,
+    "lines_added": 0.03799999877810478,
+    "lines_deleted": 0.031199999153614044,
+    "code_churn": 0.02800000086426735,
+    "recent_commit_count": 0.017999999225139618,
+    "days_since_last_change": 0.26980000734329224,
+    "previous_bug_count": 0.14300000667572021
+  }
+}
